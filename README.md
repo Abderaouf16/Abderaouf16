@@ -1,27 +1,42 @@
-<h1 align="center">Hi 👋, I'm Khamoum abderraouf</h1>
-<h3 align="center">I'm a motivated Full Stack Developer with a passion for creating impactful web applications. I possess hands-on expertise in coding, web design, and collaborative projects.</h3>
+### Hi there 👋, I'm Khamoum abderraouf
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abderaouf16&label=Profile%20views&color=0e75b6&style=flat" alt="abderaouf16" /> </p>
+- 👀 Full Stack Developer
+- 🔭 I’m currently working on Clothing Ecommerce website
+- 🌱 I’m currently learning Typescript & Next.js
+- 🌱 Proficient in React, Javascipt, Node.js, HTML & CSS
+- 💞️ Enthusiastic about coding and dedicated to continuous learning
+- 📫 How to reach me: abderaoufa88@gmail.com
 
-- 🔭 I’m currently working on **Clothing Ecommerce website**
+### Programming Languages and tools
+<a href='https://reactjs.org/'><img width='25px' height='25px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'></a>&nbsp;
+<a href='https://www.typescriptlang.org/'><img width='25px' height='25px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg'></a>&nbsp;
+<a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript'><img width='25px' height='25px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'></a>&nbsp;
+<a href='https://developer.mozilla.org/en-US/docs/Web/HTML'><img width='25px' height='25px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'></a>&nbsp;
+<a href='https://developer.mozilla.org/en-US/docs/Web/CSS'><img width='25px' height='25px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'></a>&nbsp;
+<a href='https://getbootstrap.com/'><img width='25px' height='25px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg'></a>&nbsp;
+<a href='https://nodejs.org/en/'><img width='25px' height='25px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg'></a>&nbsp;
+<a href='https://expressjs.com/'><img width='25px' height='25px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg'></a>&nbsp;
+<a href='https://firebase.google.com/'><img width='25px' height='25px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg'></a>&nbsp;
+<a href='https://git-scm.com/'><img width='25px' height='25px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg'></a>&nbsp;
+<a href='https://www.figma.com'><img width='25px' height='25px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg'></a>&nbsp;
+<a href='https://code.visualstudio.com/'><img width='25px' height='25px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg'></a>&nbsp;
 
-- 🌱 I’m currently learning **Typescript**
+### Connect with me:
+<a href='https://www.linkedin.com/in/abderaouf-khamoum-657527260/'><img width='25px' height='25px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg'></a>
+<a href='https://instagram.com/abdou.khmm'><img width='25px' height='25px' src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg'></a>
 
-- 💬 Ask me about **MERN Stack**
+<!--
+**ndovha/ndovha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 📫 How to reach me **abderaoufa88@gmail.com**
+Here are some ideas to get you started:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abderaouf khamoum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abderaouf khamoum" height="30" width="40" /></a>
-<a href="https://instagram.com/abdou.khmm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdou.khmm" height="30" width="40" /></a>
-</p>
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abderaouf16&show_icons=true&locale=en&layout=compact" alt="abderaouf16" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abderaouf16&show_icons=true&locale=en" alt="abderaouf16" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abderaouf16&" alt="abderaouf16" /></p>
